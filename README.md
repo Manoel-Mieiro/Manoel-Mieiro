@@ -20,6 +20,15 @@
   ##
   
   <div align="center">
+  <a href="https://github.com/Manoel-Mieiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Manoel-Mieiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel-Mieiro&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+  
+  ##
+  
+  <div align="center">
     <a href="https://www.linkedin.com/in/manoel-mieiro-0ab8a1265/" target="_blank">
             <img  alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
      </a>
