@@ -3,8 +3,8 @@
 
 
 - 🎓 I’m currently graduating in Information Systems at CEFET/RJ
-- 🌱 I’m currently learning JavaScript
-- 💼 I’m  looking for an internship opportunity as a web developer.
+- 🌱 Currently learning JavaScript
+- 💼 Looking for an internship opportunity as a web developer.
 
  <div style= "display: inline_block"><br>
  
