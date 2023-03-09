@@ -1,6 +1,7 @@
-### Hi there 👋
-
-
+### 
+<h1 align="left">
+Hi there 👋
+</h1>
 
 - 🎓 I’m currently graduating in Information Systems at CEFET/RJ
 - 🌱 Currently learning JavaScript
