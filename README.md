@@ -34,7 +34,7 @@ Hi there 👋
             <img  alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
      </a>
     <a href="mailto:manoeljorgemieiro@gmail.com">
-    <img  alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img  alt="Email" src="https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/modified/55a9f58d-76e9-4e06-acab-5888722fa4a1.png" target="_blank">
     </a>
 
    <a href="https://www.codewars.com/users/ManoelMieiro">
