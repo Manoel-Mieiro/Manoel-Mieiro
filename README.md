@@ -36,4 +36,8 @@ Hi there 👋
     <a href="mailto:manoeljorgemieiro@gmail.com">
     <img  alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
+
+   <a href="https://www.codewars.com/users/ManoelMieiro">
+    <img  alt="CodeWars" src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank](https://cdn.icon-icons.com/icons2/2530/PNG/512/codewars_button_icon_151901.png)https://cdn.icon-icons.com/icons2/2530/PNG/512/codewars_button_icon_151901.png">
+    </a>
   </div>
