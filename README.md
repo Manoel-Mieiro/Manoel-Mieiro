@@ -38,6 +38,6 @@ Hi there 👋
     </a>
 
    <a href="https://www.codewars.com/users/ManoelMieiro">
-    <img  alt="CodeWars" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codewars_button_icon_151901.png" height=29 width=130>
+    <img  alt="CodeWars" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codewars_button_icon_151901.png" height=27.89 width=130>
     </a>
   </div>
