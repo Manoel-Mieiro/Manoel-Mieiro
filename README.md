@@ -38,6 +38,6 @@ Hi there 👋
     </a>
 
    <a href="https://www.codewars.com/users/ManoelMieiro">
-    <img  alt="CodeWars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank>
+    <img  alt="CodeWars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank">
     </a>
   </div>
