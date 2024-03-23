@@ -4,8 +4,6 @@ Hi there 👋
 </h1>
 
 - 🎓 I’m currently graduating in Information Systems at CEFET/RJ
-- 🌱 Currently learning JavaScript
-- 💼 Looking for an internship opportunity as developer.
 
  <div style= "display: inline_block"><br>
  
