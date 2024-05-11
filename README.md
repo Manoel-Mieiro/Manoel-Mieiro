@@ -4,6 +4,8 @@ Hi there 👋
 </h1>
 
 - 🎓 I’m currently graduating in Information Systems at CEFET/RJ
+- 💼 I work at Icatu Seguros S/A as DevOps intern
+- 📚 Currently learning IaC using Terraform
 
  <div style= "display: inline_block"><br>
  
