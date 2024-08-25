@@ -5,7 +5,7 @@ Hi there 👋
 
 - 🎓 Graduating in Information Systems at CEFET/RJ
 - 💼 Icatu Seguros S/A DevOps intern
-- 📚 Currently learning Terraform
+- 📚 Currently learning .NET Core
 
  <div style= "display: inline_block"><br>
  
@@ -21,7 +21,9 @@ Hi there 👋
  <img align="center" alt="Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> 
  <img align="center" alt="SQL" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
-            
+          
+ <img align="center" akt="dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+          
           
             
 <img align="center" alt="Azure" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />          
