@@ -4,7 +4,7 @@ Hi there 👋
 </h1>
 
 - 🎓 Graduating in Information Systems at CEFET/RJ
-- 💼 Icatu Seguros S/A DevOps intern
+- 💼 Icatu Seguros S/A DevOps and Infrastructure intern
 
  <div style= "display: inline_block"><br>
  
